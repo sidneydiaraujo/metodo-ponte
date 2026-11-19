@@ -10,7 +10,7 @@ Você pode:
 
 Desde que:
 
-- **Atribuição:** dê o crédito apropriado ("Método PONTE, criado na Pós em Gestão Ágil de
-  Projetos da CESAR School"), forneça um link para a licença e indique se fez alterações.
+- **Atribuição:** dê o crédito apropriado ("Método PONTE", com link para
+  https://github.com/sidneydiaraujo/metodo-ponte), forneça um link para a licença e indique se fez alterações.
 
 Texto completo da licença: https://creativecommons.org/licenses/by/4.0/legalcode.pt

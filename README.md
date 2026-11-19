@@ -14,8 +14,6 @@ Esta skill transforma a sua IA num facilitador do método. Ela:
 - **elabora transcrições de reuniões**: transforma a transcrição bruta em transcrição limpa, ata PONTE, resumo ou versão completa, do jeito que **você configurar**, inclusive com uma versão no formato da outra margem;
 - **simula e valida qualquer cenário** que você imaginar, encena a outra margem para você ensaiar e sugere cenários e dicas.
 
-> Criado na atividade final da Pós em Gestão Ágil de Projetos da CESAR School.
-
 ---
 
 ## ⬇️ Baixar
@@ -138,4 +136,4 @@ O PONTE é um método vivo: foi testado só em simulação, e a próxima etapa �
 
 ## 📄 Licença
 
-[CC BY 4.0](LICENSE.md): pode usar, adaptar e compartilhar, inclusive em aulas e empresas, desde que cite a origem.
+[CC BY 4.0](LICENSE.md): pode usar, adaptar e compartilhar para qualquer fim, desde que cite a origem.
