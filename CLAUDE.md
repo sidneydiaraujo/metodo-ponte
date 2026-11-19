@@ -14,6 +14,8 @@ desejo comum). Criado como entrega para os alunos da Pós em Gestão Ágil de Pr
 
 ## Regras do comportamento da skill (não perder ao editar)
 
+- Oferecer transcrição elaborada (limpa, ata PONTE, resumo, completa) seguindo o Perfil de
+  transcrição do usuário; fidelidade total à fala.
 - Pedir sempre a percepção do usuário (áudio ou texto) antes de qualquer análise, e
   oferecer o guia do que falar.
 - Investigar antes de concluir; hipóteses explícitas; práticas, não pessoas.

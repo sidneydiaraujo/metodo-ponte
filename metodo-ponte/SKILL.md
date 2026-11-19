@@ -1,6 +1,6 @@
 ---
 name: metodo-ponte
-description: Aplica o Método PONTE para alinhar culturas diferentes (áreas, empresas, cliente e fornecedor, gerações, regiões, países, profissões, comunidades) rumo a um desejo comum, sem que uma cultura se imponha à outra. Investiga lacunas, ruídos, atritos e rupturas a partir do relato da pessoa, de transcrições ou de conversas, e dá direção guiada pelos 5 Pilares. Use sempre que alguém falar de reunião difícil, ruído de comunicação, conflito ou atrito entre times, áreas ou empresas, "o outro lado não colabora", preparar uma reunião com outra área, cliente ou parceiro, analisar a transcrição ou o resumo de uma reunião ou conversa, construir acordos de trabalho, ou mencionar PONTE, desejo comum, margens, Correntes ou Pontoneiro, mesmo sem pedir o método pelo nome. Também serve para simular e validar cenários imaginados e para treinar a aplicação do método.
+description: Aplica o Método PONTE para alinhar culturas diferentes (áreas, empresas, cliente e fornecedor, gerações, regiões, países, profissões, comunidades) rumo a um desejo comum, sem que uma cultura se imponha à outra. Investiga lacunas, ruídos, atritos e rupturas a partir do relato da pessoa, de transcrições ou de conversas, e dá direção guiada pelos 5 Pilares. Use sempre que alguém falar de reunião difícil, ruído de comunicação, conflito ou atrito entre times, áreas ou empresas, "o outro lado não colabora", preparar uma reunião com outra área, cliente ou parceiro, analisar a transcrição ou o resumo de uma reunião ou conversa, organizar ou elaborar uma transcrição bruta em ata ou registro limpo, construir acordos de trabalho, ou mencionar PONTE, desejo comum, margens, Correntes ou Pontoneiro, mesmo sem pedir o método pelo nome. Também serve para simular e validar cenários imaginados e para treinar a aplicação do método.
 ---
 
 # Método PONTE
@@ -48,9 +48,21 @@ Pela mensagem e pela percepção, descubra em qual destes a pessoa está. Se nã
 |---|---|---|
 | **Preparar uma reunião** | "tenho reunião amanhã com..." | Percepção pelas Correntes, desejo comum em 1 frase, 1 ou 2 acordos com caminho, termos de duplo sentido, Ensaio da Travessia |
 | **Ler uma transcrição ou conversa** | cola transcrição, ata, chat, e-mail | Siga `references/leitura-de-transcricao.md` e compare com a percepção da pessoa |
+| **Transcrição elaborada** | "organiza essa reunião", "faz a ata", transcrição bruta e longa | Siga `references/transcricao-elaborada.md`: aplique o Perfil de transcrição da pessoa (ou o padrão) e ofereça a versão para a outra margem |
 | **Conflito acontecendo agora** | "travou", "brigaram", "me copiaram o diretor" | Radar de Atrito primeiro (nível e hora de agir), depois direção |
 | **Validar ou simular um cenário** | "e se...", "quero testar", "imagina que..." | Siga `references/cenarios.md`: simule, encene a outra margem, sugira cenários |
 | **Aprender o método** | "como funciona o PONTE?" | Explique com o cartão e convide a aplicar num caso real |
+
+## Transcrição elaborada e Perfil de transcrição
+
+A pessoa pode pedir que você transforme uma transcrição bruta, um áudio transcrito ou anotações num registro elaborado: transcrição limpa, ata PONTE, resumo ou versão completa. Ela também pode configurar como quer esse registro (formato, pessoas por papel ou por nome, marcações PONTE, detalhe, marcas de tempo, idioma, saída e uma versão no formato da outra margem) com um **Perfil de transcrição** que guarda e reaproveita.
+
+- Se houver um bloco `PERFIL DE TRANSCRIÇÃO PONTE` na conversa ou nas instruções, siga-o sem perguntar de novo.
+- Se não houver, ofereça o padrão (ata PONTE, papéis, com marcações, sem marcas de tempo) e as opções em uma linha; no fim, devolva o perfil preenchido para a pessoa guardar.
+- Quando a pessoa não tiver a transcrição, explique como obtê-la no Teams, no Meet, no Zoom ou no celular.
+- Fidelidade acima de tudo: nunca invente fala, marque trechos inaudíveis e separe o que foi dito da sua interpretação.
+
+Detalhes, modelos e regras estão em `references/transcricao-elaborada.md`.
 
 ## O esquema de investigação
 

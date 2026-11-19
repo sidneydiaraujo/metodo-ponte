@@ -11,6 +11,7 @@ Esta skill transforma a sua IA num facilitador do método. Ela:
 - **lê transcrições e conversas** pelas 7 Correntes e encontra **lacunas, ruídos, atritos e rupturas**;
 - reconhece **comportamentos do outro lado da ponte** e mostra como desviar deles sem impor o seu jeito;
 - dá **direção guiada pelos 5 Pilares**, com frases prontas, plano B e quando escalar;
+- **elabora transcrições de reuniões**: transforma a transcrição bruta em transcrição limpa, ata PONTE, resumo ou versão completa, do jeito que **você configurar**, inclusive com uma versão no formato da outra margem;
 - **simula e valida qualquer cenário** que você imaginar, encena a outra margem para você ensaiar e sugere cenários e dicas.
 
 > Criado na atividade final da Pós em Gestão Ágil de Projetos da CESAR School.
@@ -69,9 +70,29 @@ Fale normalmente. Alguns exemplos:
 - "O fornecedor copiou meu diretor num e-mail reclamando do prazo. E agora?"
 - "Quero testar um cenário: meu time ágil vai começar a trabalhar com uma área que só aceita cronograma."
 - "Faz o papel do gestor da filial para eu ensaiar a abertura da reunião."
+- "Organiza essa transcrição do Teams numa ata e faz uma versão curta para mandar no WhatsApp do Comercial."
 - "O que é o método PONTE?"
 
 A skill sempre começa pedindo a sua percepção. Pode **gravar um áudio** (o microfone ou o ditado por voz da sua IA serve) ou escrever. Um minuto já basta.
+
+### 📝 Configure sua transcrição
+
+A skill elabora a transcrição da reunião no formato que você escolher. Copie o bloco abaixo, ajuste as opções e cole junto com a transcrição. Melhor ainda: guarde-o nas instruções de um Projeto do Claude, de um GPT ou de um Gem, ou no seu `CLAUDE.md`, e a skill passa a seguir sempre o seu perfil.
+
+```
+PERFIL DE TRANSCRIÇÃO PONTE
+formato: ata PONTE            (limpa · ata PONTE · resumo · completa)
+pessoas: papéis               (papéis · iniciais · nomes)
+marcações PONTE: sim          (destaca desejo comum, acordos, lacunas, termos ambíguos)
+detalhe: padrão               (enxuto · padrão · detalhado)
+marcas de tempo: remover      (manter · remover)
+idioma: o da reunião
+saída: texto formatado        (texto formatado · texto simples para colar · tabela)
+versão para a outra margem: não   (ou: "sim, mensagem curta de WhatsApp")
+foco: reunião toda            (reunião toda · só decisões · só o tema ___)
+```
+
+Ainda não tem a transcrição? A skill explica como gerá-la no Teams, no Meet, no Zoom ou no celular. Anotações feitas à mão também servem.
 
 **Cuidados:** use transcrições só com o consentimento dos participantes e retire nomes e dados pessoais antes de enviar. A IA investiga e sugere; quem conversa e decide é você.
 
@@ -105,6 +126,7 @@ metodo-ponte/                  ← a skill (a pasta que vai para a IA)
     guia-de-percepcao.md       ← o que falar no áudio ou escrever
     comportamentos.md          ← comportamentos do outro lado e como desviar
     leitura-de-transcricao.md  ← como ler transcrições e conversas
+    transcricao-elaborada.md   ← transcrição limpa, ata, resumo e o Perfil de transcrição
     cenarios.md                ← simulação, ensaio e sementes de cenário
 dist/                          ← pacotes prontos para baixar
 scripts/build.py               ← gera os pacotes de dist/

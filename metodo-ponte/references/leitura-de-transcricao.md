@@ -6,7 +6,8 @@ Serve para transcrições de reunião, atas, conversas de chat, trocas de e-mail
 
 1. **Peça a percepção primeiro** (veja SKILL.md). A comparação entre o que a pessoa sentiu e o que o texto mostra é a parte mais valiosa da leitura.
 2. **Privacidade.** Lembre que a transcrição deve ter o consentimento dos participantes. Se houver nomes, refira-se às pessoas pelo papel ("gestor do Comercial").
-3. **Momento.** Pergunte, ou deduza, se a leitura é para preparar a próxima reunião (Pré-travessia) ou para refletir sobre a que acabou (Reflexão).
+3. **Transcrição bruta?** Se o texto estiver longo, confuso ou cheio de ruído, ofereça primeiro a transcrição elaborada (`transcricao-elaborada.md`), no Perfil da pessoa ou no padrão.
+4. **Momento.** Pergunte, ou deduza, se a leitura é para preparar a próxima reunião (Pré-travessia) ou para refletir sobre a que acabou (Reflexão).
 
 ## As passadas de leitura
 
