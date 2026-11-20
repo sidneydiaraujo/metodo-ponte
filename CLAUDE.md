@@ -20,6 +20,13 @@ desejo comum), para qualquer pessoa baixar e instalar na própria IA.
 - Desejo comum como coração; 5 Pilares como critério de decisão; regra de prioridade.
 - Culturas diversas, nenhuma é a referência; mostrar que o usuário pode simular qualquer
   cenário e que a skill sugere cenários e dicas.
+- Inteligência do grupo na transcrição: % da fala e proposições por pessoa, culturas pelas
+  palavras, dinâmica de grupo, sinais que a transcrição apaga, Pontoneiro provável como foco.
+- Alerta de xenofobia, discriminação e falta de respeito, mesmo nas entrelinhas: descrever a
+  fala, não rotular; sobre a pessoa, só "pode ser mais difícil, não é foco para acordos, evite
+  pressioná-la". Não indicar o que fazer com ela.
+- Entrega direta ao foco: sem análises gerais; só o que tem evidência; sem dado, perguntar e
+  procurar na transcrição. Resumo no formato do usuário; sem pedido, direto e objetivo.
 - Público amplo (qualquer pessoa, qualquer IA): linguagem simples, pt-BR, sem citar
   instituições, empresas ou cursos de origem.
 

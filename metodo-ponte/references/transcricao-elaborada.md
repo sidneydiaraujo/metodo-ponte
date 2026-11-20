@@ -25,9 +25,11 @@ Junte, numa mesma mensagem curta, o pedido de percepção (veja SKILL.md) e a co
 
 > Recebi a transcrição. Antes de elaborar, duas coisas rápidas:
 > 1. **Sua percepção** da reunião, em áudio ou por escrito: como você saiu dela e o que achou mais importante.
-> 2. **Como você quer a transcrição.** Se já tem um Perfil de transcrição, cole aqui. Se não, eu uso o padrão (**ata PONTE**, pessoas pelo papel, com marcações, sem marcas de tempo) ou você me diz o que mudar.
+> 2. **Se quiser um formato específico**, me diga ou cole o seu Perfil de transcrição. Se não, eu faço uma ata direta e objetiva.
 
 Se a pessoa disser "só quero a transcrição, sem análise", respeite: elabore no formato pedido e, no fim, ofereça a leitura PONTE em uma linha. Mesmo assim, pergunte a percepção, porque ela ajuda a destacar o que importa.
+
+**O resumo é do jeito que a pessoa pedir.** Se ela não disser, seja direto e objetivo: o padrão enxuto, sem análise geral, sem repetir o que já está no texto e sem incluir nada que não foi dito. As opções do Perfil vão numa linha no fim, não antes.
 
 Quando a configuração for nova, devolva no fim o bloco do Perfil preenchido e sugira que a pessoa o guarde (veja "Guardar o perfil").
 
@@ -40,7 +42,7 @@ Opções, com o padrão em **negrito**:
 | Formato | limpa · **ata PONTE** · resumo · completa | O tipo de registro (veja os modelos) |
 | Pessoas | **papéis** · iniciais · nomes | Privacidade. Nomes só com o consentimento de todos |
 | Marcações PONTE | **sim** · não | Destaca no texto desejo comum, acordos, lacunas, termos ambíguos e Correntes |
-| Detalhe | enxuto · **padrão** · detalhado | Tamanho do registro |
+| Detalhe | **enxuto** · padrão · detalhado | Tamanho do registro |
 | Marcas de tempo | manter · **remover** | Útil para voltar à gravação |
 | Idioma | **o da reunião** · outro | Tradução do registro |
 | Saída | **texto formatado** · texto simples para colar (e-mail, Teams, WhatsApp) · tabela | Onde o registro vai ser usado |
@@ -54,7 +56,7 @@ PERFIL DE TRANSCRIÇÃO PONTE
 formato: ata PONTE
 pessoas: papéis
 marcações PONTE: sim
-detalhe: padrão
+detalhe: enxuto
 marcas de tempo: remover
 idioma: o da reunião
 saída: texto formatado
@@ -110,7 +112,7 @@ Próximos passos
 
 ### Resumo
 
-De 5 a 10 linhas: o desejo comum, as decisões, os próximos passos e um alerta, se houver.
+Até 5 linhas, salvo pedido diferente: o desejo comum, as decisões, os próximos passos e um alerta, se houver.
 
 ### Completa
 
@@ -134,7 +136,7 @@ Reescreva o mesmo conteúdo (decisões, acordos, próximos passos) no canal e no
 ## 5. Regras de fidelidade
 
 - **Nunca invente.** Se um trecho estiver inaudível ou confuso, marque `[inaudível]` ou `[?]` e pergunte.
-- **Limpar não é reescrever.** Tire os vícios, mas preserve o que é sinal cultural: "acho que dá", "vou ver", "pode ser" e silêncios são pistas de Discordância e de Ritmo.
+- **Limpar não é reescrever.** Tire os vícios, mas preserve o que é sinal cultural: "acho que dá", "vou ver", "pode ser" e silêncios são pistas de Discordância e de Ritmo. Na versão limpa, mantenha marcados interrupções `[interrompe]`, falas sobrepostas e `[risos]`: são os sinais que mostram a dinâmica do grupo.
 - **Cite literalmente os momentos-chave**: o desejo comum, os acordos e os pontos de tensão.
 - **Separe fala de interpretação.** O que foi dito fica no texto; a sua leitura fica nas marcações e na análise.
 - **Privacidade por padrão.** Pessoas pelo papel. Lembre que a transcrição deve ter o consentimento dos participantes.

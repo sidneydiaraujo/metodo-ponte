@@ -10,6 +10,9 @@ Esta skill transforma a sua IA num facilitador do método. Ela:
 - **investiga** a situação: quem são as margens, qual é o desejo comum, o que ninguém disse;
 - **lê transcrições e conversas** pelas 7 Correntes e encontra **lacunas, ruídos, atritos e rupturas**;
 - reconhece **comportamentos do outro lado da ponte** e mostra como desviar deles sem impor o seu jeito;
+- **lê o grupo na transcrição**: quem pesa na reunião (% da fala e propostas feitas), que culturas aparecem nas palavras, a dinâmica do grupo, quem é o **foco** para construir acordos (o Pontoneiro provável) e sinais que a transcrição costuma apagar, como interrupções e perguntas ignoradas;
+- **sinaliza xenofobia, discriminação e falta de respeito**, mesmo nas entrelinhas, indicando só que aquela pessoa pode ser mais difícil e não é o foco para tirar acordos;
+- vai **direto ao foco**: sem análises longas, sem inventar o que não está no texto, e pergunta quando falta dado;
 - dá **direção guiada pelos 5 Pilares**, com frases prontas, plano B e quando escalar;
 - **elabora transcrições de reuniões**: transforma a transcrição bruta em transcrição limpa, ata PONTE, resumo ou versão completa, do jeito que **você configurar**, inclusive com uma versão no formato da outra margem;
 - **simula e valida qualquer cenário** que você imaginar, encena a outra margem para você ensaiar e sugere cenários e dicas.
@@ -69,6 +72,7 @@ Fale normalmente. Alguns exemplos:
 - "Quero testar um cenário: meu time ágil vai começar a trabalhar com uma área que só aceita cronograma."
 - "Faz o papel do gestor da filial para eu ensaiar a abertura da reunião."
 - "Organiza essa transcrição do Teams numa ata e faz uma versão curta para mandar no WhatsApp do Comercial."
+- "Nessa transcrição, quem dominou a reunião e com quem eu devo construir o próximo acordo?"
 - "O que é o método PONTE?"
 
 A skill sempre começa pedindo a sua percepção. Pode **gravar um áudio** (o microfone ou o ditado por voz da sua IA serve) ou escrever. Um minuto já basta.
@@ -82,7 +86,7 @@ PERFIL DE TRANSCRIÇÃO PONTE
 formato: ata PONTE            (limpa · ata PONTE · resumo · completa)
 pessoas: papéis               (papéis · iniciais · nomes)
 marcações PONTE: sim          (destaca desejo comum, acordos, lacunas, termos ambíguos)
-detalhe: padrão               (enxuto · padrão · detalhado)
+detalhe: enxuto               (enxuto · padrão · detalhado)
 marcas de tempo: remover      (manter · remover)
 idioma: o da reunião
 saída: texto formatado        (texto formatado · texto simples para colar · tabela)
@@ -124,6 +128,7 @@ metodo-ponte/                  ← a skill (a pasta que vai para a IA)
     guia-de-percepcao.md       ← o que falar no áudio ou escrever
     comportamentos.md          ← comportamentos do outro lado e como desviar
     leitura-de-transcricao.md  ← como ler transcrições e conversas
+    inteligencia-do-grupo.md   ← quem pesa, culturas pelas palavras, dinâmica, foco e alerta de respeito
     transcricao-elaborada.md   ← transcrição limpa, ata, resumo e o Perfil de transcrição
     cenarios.md                ← simulação, ensaio e sementes de cenário
 dist/                          ← pacotes prontos para baixar

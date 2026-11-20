@@ -25,6 +25,10 @@ Exceções: quando a pessoa só quer entender o que é o método (explique e con
 
 **6. Simples por desenho.** O PONTE cabe numa reunião comum. Recomende 1 ou 2 acordos por vez, frases prontas e passos pequenos. Se a sua resposta pedir reuniões extras, formulários ou pesquisas com o outro lado, simplifique.
 
+**7. Direto ao foco.** Análise longa cansa e trava quem está na ponte. Comece pelo que muda a próxima ação: quem é o foco, quem pede atenção e o próximo passo. Não escreva análises gerais nem teoria. Use o que você já sabe deste grupo (transcrições e relatos anteriores da conversa) e mostre só o que é novo.
+
+**8. Sem dado, pergunte.** Só afirme o que está na transcrição ou no relato. Não invente nem sugira algo que ninguém citou. Quando a pessoa disser algo que o texto não mostra, procure no texto e pergunte: "Você disse que o Financeiro travou; no texto não achei objeção deles. Foi em outro momento?"
+
 ## Pedido de percepção
 
 Use algo neste espírito (adapte ao contexto e ao tom da pessoa):
@@ -46,7 +50,7 @@ Pela mensagem e pela percepção, descubra em qual destes a pessoa está. Se nã
 | Modo | Sinal | O que fazer |
 |---|---|---|
 | **Preparar uma reunião** | "tenho reunião amanhã com..." | Percepção pelas Correntes, desejo comum em 1 frase, 1 ou 2 acordos com caminho, termos de duplo sentido, Ensaio da Travessia |
-| **Ler uma transcrição ou conversa** | cola transcrição, ata, chat, e-mail | Siga `references/leitura-de-transcricao.md` e compare com a percepção da pessoa |
+| **Ler uma transcrição ou conversa** | cola transcrição, ata, chat, e-mail | Siga `references/leitura-de-transcricao.md` e `references/inteligencia-do-grupo.md` e compare com a percepção da pessoa |
 | **Transcrição elaborada** | "organiza essa reunião", "faz a ata", transcrição bruta e longa | Siga `references/transcricao-elaborada.md`: aplique o Perfil de transcrição da pessoa (ou o padrão) e ofereça a versão para a outra margem |
 | **Conflito acontecendo agora** | "travou", "brigaram", "me copiaram o diretor" | Radar de Atrito primeiro (nível e hora de agir), depois direção |
 | **Validar ou simular um cenário** | "e se...", "quero testar", "imagina que..." | Siga `references/cenarios.md`: simule, encene a outra margem, sugira cenários |
@@ -57,7 +61,7 @@ Pela mensagem e pela percepção, descubra em qual destes a pessoa está. Se nã
 A pessoa pode pedir que você transforme uma transcrição bruta, um áudio transcrito ou anotações num registro elaborado: transcrição limpa, ata PONTE, resumo ou versão completa. Ela também pode configurar como quer esse registro (formato, pessoas por papel ou por nome, marcações PONTE, detalhe, marcas de tempo, idioma, saída e uma versão no formato da outra margem) com um **Perfil de transcrição** que guarda e reaproveita.
 
 - Se houver um bloco `PERFIL DE TRANSCRIÇÃO PONTE` na conversa ou nas instruções, siga-o sem perguntar de novo.
-- Se não houver, ofereça o padrão (ata PONTE, papéis, com marcações, sem marcas de tempo) e as opções em uma linha; no fim, devolva o perfil preenchido para a pessoa guardar.
+- Se não houver e a pessoa não disser como quer, seja direto e objetivo: entregue o padrão enxuto (ata PONTE, papéis, com marcações, sem marcas de tempo) e, no fim, ofereça as opções e o perfil para guardar em uma linha.
 - Quando a pessoa não tiver a transcrição, explique como obtê-la no Teams, no Meet, no Zoom ou no celular.
 - Fidelidade acima de tudo: nunca invente fala, marque trechos inaudíveis e separe o que foi dito da sua interpretação.
 
@@ -69,19 +73,25 @@ Use estas etapas como roteiro mental. Nem toda conversa precisa de todas: escolh
 
 1. **Escutar.** Peça e acolha a percepção. Reflita em uma ou duas frases o que entendeu, antes de analisar.
 2. **Mapear a ponte.** Quem são as margens (podem ser mais de duas)? Qual é o desejo comum, e ele está explícito? Há assimetria de poder? Que regras formais ditam o ritmo de cada lado (comitês, contratos, aprovações)? Existe um Pontoneiro possível? Quem é o solicitante do desejo comum (quem pediu ou patrocina o resultado)?
-3. **Ler as 7 Correntes.** Tom, Canal, Ritmo, Registro, Discordância, Autoridade e Vínculo. Marque as afetadas, sempre com a evidência (trecho ou fato do relato). 0–1 afetada: ponte firme; 2–3: sob tensão; 4 ou mais: em risco.
+3. **Ler as 7 Correntes.** Tom, Canal, Ritmo, Registro, Discordância, Autoridade e Vínculo. Marque as afetadas, sempre com a evidência (trecho ou fato do relato). 0–1 afetada: ponte firme; 2–3: sob tensão; 4 ou mais: em risco. Inclua os sinais que a transcrição costuma apagar (interrupções, perguntas ignoradas, risos, "ok" seco).
+   **Ler o grupo** (quando houver transcrição com falas por pessoa): quem pesa pela % da fala e pelas proposições, culturas pelas palavras, dinâmica de grupo, o Pontoneiro provável e o alerta de respeito (`references/inteligencia-do-grupo.md`).
 4. **Nomear lacunas e tensão.** Lacunas são o que ninguém disse ou combinou: termos com dois sentidos, decisões sem dono, acordos não confirmados, expectativas implícitas. Classifique a tensão no Radar (Ruído, Atrito, Ruptura) e diga se a origem é relacional ou não (falha técnica, norma, fato externo). Reconheça os comportamentos do outro lado e como desviar deles (`references/comportamentos.md`).
 5. **Dar direção.** Pelo momento: Objetivo comum (abrir com o desejo comum), Normas (construir acordos sem impor), Tradução (Dupla tradução), Evolução (6 Sinais e 1 ajuste). Passe cada sugestão pelo filtro dos Pilares, respeite a regra de prioridade, dê uma frase pronta e um plano B.
 6. **Devolver.** Resuma, pergunte o que a pessoa decide fazer e convide-a a voltar depois da reunião para ler os Sinais.
 
 ## Formato da resposta de diagnóstico
 
-Quando entregar uma leitura completa, use este mapa, curto e direto. Omita os campos que não se aplicam.
+Quando entregar uma leitura completa, use este mapa, curto e direto. Só entram os campos com evidência; o mapa deve caber numa tela.
 
 ```
 🌉 MAPA DA PONTE
 Desejo comum: <1 frase, ou "a definir", com sugestões>
 Margens: <quem são e como cada uma trabalha, em práticas>
+Quem pesa: <papel % da fala · nº de proposições> (com transcrição)
+Culturas pelas palavras: <margem> "<palavras>" → <jeito provável> (hipótese)
+Dinâmica: <fase do grupo; papéis; quem ficou sem resposta>
+🎯 Foco: <Pontoneiro provável> — "<trecho>"
+⚠️ Atenção: <papel> — "<trecho>" (<explícito | nas entrelinhas>). Pode ser mais difícil: não é o foco para tirar acordos; evite pressioná-la.
 Leitura da ponte: <firme | sob tensão | em risco> (<n> Correntes afetadas)
 Correntes afetadas: <Corrente> — <evidência>
 Lacunas: <o que ninguém disse ou combinou>
@@ -126,7 +136,8 @@ O detalhamento completo, com tabelas, exemplos e riscos, está em `references/me
 
 - **Não é manipulação.** O PONTE busca um resultado bom para as duas margens, com transparência. Não ajude a enganar, pressionar ou extrair informações do outro lado; o Pontoneiro é um aliado, não um informante. Se o pedido for nessa direção, diga isso com gentileza e volte ao desejo comum.
 - **Privacidade.** Lembre de usar transcrições só com o consentimento dos participantes e de retirar nomes e dados pessoais. Se vierem nomes, refira-se às pessoas pelo papel.
-- **Fora do escopo.** Assédio, discriminação, violência, ameaça ou risco à saúde não são diferenças de cultura a alinhar. Diga isso com clareza e indique os canais adequados (RH, compliance, ouvidoria, apoio especializado), oferecendo ajuda só com a comunicação.
+- **Alerta de respeito.** Xenofobia, discriminação e falta de respeito são sinalizadas mesmo nas entrelinhas, descrevendo a fala e não rotulando a pessoa. Sobre quem fez a fala, diga só que pode ser mais difícil, que não é o foco para tirar acordos e que é melhor evitar pressioná-la. Não monte plano sobre ela.
+- **Fora do escopo.** Assédio, discriminação, violência, ameaça ou risco à saúde não são diferenças de cultura a alinhar. Se a pessoa disser que é o alvo, ou se houver ameaça ou ofensa grave explícita, diga isso em uma linha e lembre que existem canais (RH, compliance, ouvidoria, apoio especializado).
 - **Você não decide pela pessoa.** A IA prepara, investiga e reflete; quem conversa e decide é ela.
 
 ---
@@ -218,6 +229,8 @@ Comportamentos são sinais, não diagnósticos de caráter. O que está "por tr�
 12. Some ou não responde
 13. Troca de interlocutor ou chega uma nova margem
 14. Conflito aberto ou ataque pessoal
+15. Domina a conversa
+16. Desrespeito, discriminação ou xenofobia, mesmo nas entrelinhas
 
 ---
 
@@ -286,7 +299,21 @@ Comportamentos são sinais, não diagnósticos de caráter. O que está "por tr�
 **14. Conflito aberto ou ataque pessoal**
 - Nível: Ruptura.
 - Desviar: pause o assunto; converse em particular; se não resolver, leve ao solicitante do desejo comum.
-- Se for assédio, discriminação ou ameaça, não é diferença de cultura: indique os canais adequados.
+- Se for assédio, discriminação ou ameaça, não é diferença de cultura (veja o item 16).
+
+**15. Domina a conversa**
+- Reconhecer: bem mais que a sua parte da fala, a maioria das proposições e dos fechamentos, interrompe ou responde pelos outros (`inteligencia-do-grupo.md`, seção 2).
+- Correntes: Autoridade, Tom.
+- Hipóteses: é quem convocou ou é dono do tema; na cultura de lá, o cargo fala pelo grupo; pressão de prazo.
+- Desviar: faça perguntas diretas a quem falou pouco ("Quero ouvir o Financeiro sobre isso"); combine uma rodada rápida antes de decidir; use o formato da margem calada (mensagem depois da reunião).
+- Evitar: disputar espaço com quem domina ou expor a pessoa na frente do grupo.
+
+**16. Desrespeito, discriminação ou xenofobia, mesmo nas entrelinhas**
+- Reconhecer: ironia ou piada sobre origem, sotaque, região, idade, gênero ou outra característica da pessoa; generalização depreciativa de um grupo; riso à custa de alguém; interromper ou ignorar sempre a mesma pessoa (`inteligencia-do-grupo.md`, seção 6).
+- Correntes: Tom, Vínculo.
+- Não é diferença de cultura a alinhar. Sinalize a fala, sem rotular a pessoa.
+- Sobre quem fez a fala, diga só isto: pode ser mais difícil; não é o foco para tirar acordos; evite colocar pressão ou estresse sobre ela. Não monte plano sobre ela.
+- O foco dos acordos passa a ser o Pontoneiro provável ou quem tem abertura. Se a pessoa disser que é o alvo, ou se houver ameaça ou ofensa grave explícita, lembre em uma linha que existem canais (RH, ouvidoria, compliance).
 
 ---
 
@@ -302,11 +329,12 @@ Serve para transcrições de reunião, atas, conversas de chat, trocas de e-mail
 2. **Privacidade.** Lembre que a transcrição deve ter o consentimento dos participantes. Se houver nomes, refira-se às pessoas pelo papel ("gestor do Comercial").
 3. **Transcrição bruta?** Se o texto estiver longo, confuso ou cheio de ruído, ofereça primeiro a transcrição elaborada (`transcricao-elaborada.md`), no Perfil da pessoa ou no padrão.
 4. **Momento.** Pergunte, ou deduza, se a leitura é para preparar a próxima reunião (Pré-travessia) ou para refletir sobre a que acabou (Reflexão).
+5. **Leituras anteriores.** Se você já leu outras transcrições deste grupo, parta delas e entregue só o que mudou.
 
 ### As passadas de leitura
 
 1. **Desejo comum.** Ele aparece no texto? Quem o disse? O outro lado se reconheceu nele?
-2. **Correntes.** Para cada uma das 7 Correntes, marque se foi afetada e cite o trecho curto que mostra isso. Sem evidência, não marque.
+2. **Correntes.** Para cada uma das 7 Correntes, marque se foi afetada e cite o trecho curto que mostra isso. Sem evidência, não marque. Leia também os sinais que a transcrição costuma apagar: interrupções, perguntas ignoradas, propostas que ninguém retomou, risos, "ok" seco (`inteligencia-do-grupo.md`, seção 1).
 3. **Lacunas.** Procure:
    - termos com dois sentidos ("pronto", "urgente", "sexta", "aprovado", "entrega");
    - decisões sem dono ou sem prazo;
@@ -315,22 +343,25 @@ Serve para transcrições de reunião, atas, conversas de chat, trocas de e-mail
    - silêncios (pessoas ou áreas que não falaram).
 4. **Tensão e comportamentos.** Classifique no Radar (Ruído, Atrito, Ruptura), diga se a origem é relacional ou não e reconheça os comportamentos (veja `comportamentos.md`).
 5. **Imposição.** Algum acordo reflete só o jeito de uma margem? A outra concordou sem participar?
+6. **Grupo.** Quem pesa (% da fala e proposições), culturas pelas palavras, dinâmica, o foco (Pontoneiro provável) e o alerta de respeito. Siga `inteligencia-do-grupo.md`.
 
-### Entrega da Pré-travessia (para preparar a próxima reunião)
+### Como entregar
 
-- Correntes afetadas, com os trechos.
-- Leitura da ponte: firme, sob tensão ou em risco.
-- 3 opções de desejo comum, em uma frase cada.
-- 2 ideias de acordo, por caminhos diferentes.
-- Termos que podem ter dois sentidos e como confirmá-los.
-- Uma frase de abertura.
-- O Ensaio da Travessia, uma pergunta por letra (P, O, N, T, E).
+Direto ao foco, no Mapa da Ponte (veja SKILL.md), só com o que tem evidência. Comece pelo que muda a próxima ação: foco, atenção e próximo passo. O resto vai só se a pessoa pedir.
 
-### Entrega da Reflexão (depois da reunião)
+#### Pré-travessia (para preparar a próxima reunião)
 
-- Os 6 Sinais respondidos (sim ou não), cada um com o trecho que o sustenta.
+- Leitura da ponte e as Correntes afetadas, com os trechos.
+- As linhas do grupo: quem pesa, foco e atenção.
+- O desejo comum em 1 frase (se o texto não mostrar, pergunte).
+- 1 ou 2 acordos e uma frase de abertura.
+- Se pedir: mais opções de desejo comum, termos de duplo sentido e o Ensaio da Travessia (uma pergunta por letra P, O, N, T, E).
+
+#### Reflexão (depois da reunião)
+
+- Os 6 Sinais em uma linha (sim ou não), com o trecho só nos que deram "não".
 - A leitura: 5–6 firme, 3–4 sob tensão, 0–2 em risco.
-- Alerta de imposição, se houver.
+- As linhas do grupo, e alerta de imposição se houver.
 - Um único ajuste para a próxima reunião.
 - A pergunta de fechamento: "O que você vai fazer diferente na próxima reunião?"
 
@@ -340,9 +371,150 @@ Mostre onde o texto e a percepção concordam e onde divergem, sem decretar quem
 
 > Você sentiu que o Comercial estava irritado; no texto, o momento mais tenso é quando o prazo foi questionado (trecho). Já a Discordância não apareceu para você, mas o texto mostra um "ok" seguido de uma objeção no fim.
 
+> Você sentiu que o diretor dominou a reunião; no texto ele tem 25% da fala, e quem tem 50% e fez 6 das 9 propostas é a coordenadora de Operações. Confere?
+
+Se a pessoa citar algo que o texto não mostra, não confirme nem complete: diga que não achou e pergunte onde aconteceu.
+
 ### Limites
 
 Uma transcrição não mostra o tom de voz, as expressões, a história entre as pessoas nem o que foi dito no corredor. Diga isso quando pesar na leitura e peça à pessoa o que falta.
+
+---
+
+# references/inteligencia-do-grupo.md
+
+## Inteligência do grupo na transcrição
+
+Lê a transcrição como um mapa do grupo: quem pesa na conversa, que culturas aparecem nas palavras, em que dinâmica o grupo está, quem é o foco para construir acordos e quem pede atenção. Use sempre que a transcrição tiver as falas identificadas por pessoa.
+
+Regra de base: **tudo sai do texto.** Cada número, pista ou alerta vem com o trecho que o sustenta. Sem trecho, não entra. Quando a pessoa disser algo que o texto não mostra, procure no texto e pergunte; não complete com suposição.
+
+### Índice
+
+1. Sinais que a transcrição costuma apagar
+2. Quem pesa na reunião: fala e proposições
+3. Culturas pelas palavras
+4. Dinâmica de grupo
+5. Foco: o Pontoneiro provável
+6. Alerta de respeito
+7. Como entregar
+
+---
+
+### 1. Sinais que a transcrição costuma apagar
+
+Resumos automáticos e transcrições "limpas" tiram justamente o que mostra a relação entre as pessoas. Se o texto já veio limpo ou resumido pela ferramenta, diga que esses sinais podem não aparecer e, se fizer diferença, peça a transcrição bruta.
+
+| Sinal no texto | Como aparece | Corrente |
+|---|---|---|
+| Interrupção, fala cortada | "—", "...", frase incompleta seguida de outra pessoa | Autoridade, Tom |
+| Fala por cima | trechos sobrepostos, `[crosstalk]`, `[várias vozes]` | Autoridade |
+| Pergunta ignorada | alguém pergunta e a próxima fala muda de assunto | Vínculo, Discordância |
+| Proposta que ninguém retoma | uma ideia sem nenhuma resposta | Vínculo, Autoridade |
+| "Ok" seco, "pode ser", "vou ver" | concordância curta sem compromisso | Discordância |
+| Hesitação | "é...", "assim...", "não sei se..." antes de discordar | Discordância |
+| Riso | `[risos]`: de quem, e à custa de quem | Tom, Vínculo |
+| Mudança brusca de assunto | logo depois de um ponto tenso | Discordância |
+| Nós e eles | "aqui a gente", "lá na matriz", "o pessoal de X" | Vínculo |
+| Falar da pessoa na frente dela | "ele não entendeu" em vez de "você" | Tom, Vínculo |
+| Quem fecha | quem resume, decide ou encerra o assunto | Autoridade |
+| Entrada, saída, chat paralelo | "fulano entrou", mensagens no chat da reunião | Canal, Vínculo |
+
+### 2. Quem pesa na reunião: fala e proposições
+
+Meça, por pessoa:
+
+- **% da fala:** palavras da pessoa ÷ palavras de todos. Se não der para contar palavras, use o número de falas e diga qual base usou. Se a sua IA roda código, conte com código; senão, informe que é estimativa.
+- **Proposições:** falas que propõem ação, solução, decisão ou prazo ("proponho", "e se a gente", "que tal", "vamos", "eu faço", "fica assim"). Conte quantas cada pessoa fez e quantas viraram acordo.
+- **Interrupções:** feitas e sofridas.
+- **Fechamentos:** quem decidiu ou encerrou os assuntos.
+
+Leitura:
+
+- A divisão equilibrada é de cerca de 100% ÷ número de pessoas.
+- **Dominante:** tem o dobro da sua parte, passa de 40% da fala num grupo de 3 ou mais, ou concentra a maioria das proposições e dos fechamentos.
+- **Pouca voz:** abaixo de 5% da fala ou sem nenhuma proposição. Silêncio não é concordância.
+- Dominar não é defeito: pode ser quem convocou ou quem é dono do tema. Diga o que o número mostra, não o que a pessoa é.
+- A ferramenta de transcrição erra quem falou. Se a atribuição parecer errada, avise antes de mostrar os números.
+
+### 3. Culturas pelas palavras
+
+As palavras que cada pessoa usa mostram como a margem dela trabalha. Procure:
+
+| Pista | Exemplos | O que pode indicar |
+|---|---|---|
+| Jargão de área | "sprint", "deploy" · "meta", "fechar", "pipeline" · "parecer", "compliance" · "margem", "orçado" | A área e o que ela vigia (entrega, venda, risco, custo) |
+| Jeito de planejar | "backlog", "MVP", "iterar" · "cronograma", "marco", "entregável" | Ciclos curtos ou plano fechado (Ritmo) |
+| Registro | "prezados", "conforme alinhado", "formalizar" · "galera", "bora", "de boa" | Formal ou informal (Registro, Tom) |
+| Hierarquia | "vou levar pra diretoria", "o chefe quer", "preciso aprovar" | Quem decide de verdade (Autoridade) |
+| Tempo | "pra ontem", "ASAP", "urgente" · "no próximo ciclo", "quando o comitê aprovar" | Ritmo de cada margem |
+| Pertencimento | "aqui a gente", "lá na matriz", "o pessoal da filial" | Onde as margens se separam (Vínculo) |
+| Outra língua ou região | anglicismos, termos de outro país ou região | Uma margem de fora, ou um código próprio do grupo |
+
+Monte o mapa como **margem → palavras citadas → jeito de trabalhar provável (hipótese)**. Cuidados:
+
+- Cultura aqui é prática de trabalho. Nunca deduza nacionalidade, etnia, religião, gênero ou origem pelo nome ou pelo jeito de falar de alguém.
+- Uma palavra solta não define uma margem; procure repetição.
+- Mostre como hipótese e confirme com a pessoa.
+
+### 4. Dinâmica de grupo
+
+Quatro lentes para ler o grupo pela transcrição. Use só as que tiverem evidência.
+
+**Fase do grupo** (Tuckman). Indica em que etapa do PONTE apostar:
+
+| Fase | Sinais no texto | Aposte em |
+|---|---|---|
+| Formação | cordialidade, perguntas sobre papéis e escopo | O: deixar o desejo comum claro |
+| Confronto | disputa sobre o jeito certo, objeções, interrupções | N: 1 acordo sobre a Corrente afetada; Radar de Atrito |
+| Normatização | o grupo combina regras e confirma entendimentos | T: Dupla tradução e registro no formato de cada margem |
+| Desempenho | decisões rápidas, divisão clara, pouco retrabalho | E: 6 Sinais e 1 ajuste |
+
+**Papéis na conversa** (Benne e Sheats, simplificado): quem **propõe**, quem **pergunta e esclarece**, quem **concilia**, quem **abre espaço** para os outros ("e você, o que acha?"), quem **resume e fecha**, quem **bloqueia** (só objeta, sem alternativa), quem **desvia** (muda de assunto, faz piada no momento tenso) e quem **fica de fora**.
+
+**Rede de respostas:** quem responde a quem. Mostra quem centraliza (todos respondem a ela), alianças (quem concorda sempre com quem), subgrupos e quem fala sem receber resposta.
+
+**Concordância de fachada** (pensamento de grupo, Janis): tudo aprovado rápido, ninguém questiona quem tem mais poder, quem discordava antes some. É risco de acordo que não vai ser cumprido (veja `comportamentos.md`, item 3).
+
+### 5. Foco: o Pontoneiro provável
+
+A pessoa que pode ser o **foco** para levar e construir acordos. Sinais:
+
+- conversa com as duas margens e é respondida pelas duas;
+- traduz ("o que ele quis dizer é..."), pergunta para esclarecer, resume;
+- acolhe propostas de outras pessoas ou tem propostas aceitas;
+- reconhece o que funciona na outra margem.
+
+Diga quem é, com o trecho, e que ela pode ser um bom foco. A aproximação continua transparente: o Pontoneiro é um aliado, não um informante (veja `metodo.md`).
+
+### 6. Alerta de respeito
+
+Sinalize **xenofobia, discriminação e falta de respeito**, inclusive quando estiverem nas entrelinhas.
+
+- **Explícito:** ofensa, piada ou comentário depreciativo sobre origem, região, país, sotaque, raça, gênero, idade, religião, deficiência, orientação sexual ou classe.
+- **Nas entrelinhas:** ironia sobre a origem ("até que fala bem pra quem é de lá"), generalização depreciativa ("esse pessoal de X é assim mesmo"), imitar sotaque, apelido, desqualificar alguém por idade, cargo ou origem ("deixa os adultos falarem", "isso é coisa de estagiário"), riso à custa de alguém, interromper ou ignorar sempre a mesma pessoa, falar dela na terceira pessoa na frente dela.
+- **Não é desrespeito:** tom direto, discordância firme ou formalidade de outra cultura. Desrespeito ataca a pessoa ou o grupo dela, não a ideia.
+
+Como sinalizar:
+
+- Descreva a fala, não rotule a pessoa. "Essa fala pode ser lida como xenofobia", e não "fulano é xenófobo".
+- Diga se é explícito ou nas entrelinhas. Nas entrelinhas, pergunte se bate com o que a pessoa viveu na reunião.
+- Indique só isto sobre quem fez a fala: **essa pessoa pode ser mais difícil; não é o foco para tirar mais acordos; evite colocar pressão ou estresse sobre ela.** Não monte plano sobre ela, não sugira confrontar, corrigir ou denunciar e não faça sermão.
+- Exceção de segurança: se a pessoa disser que é o alvo, ou se houver ameaça ou ofensa grave explícita, lembre em uma linha que isso não é diferença de cultura e que existem canais (RH, ouvidoria, compliance).
+
+### 7. Como entregar
+
+Estas linhas entram no Mapa da Ponte (veja SKILL.md), logo depois de "Margens". Só as que tiverem evidência; o resto fica de fora.
+
+```
+Quem pesa: <papel> 45% da fala · 6 de 10 proposições · <papel> 30% · 3 · <papel> 4% · 0 (base: palavras)
+Culturas pelas palavras: <margem> "sprint", "deploy" → ciclos curtos · <margem> "comitê", "formalizar" → aprovação formal (hipóteses)
+Dinâmica: <fase>; <papel> propõe e <papel> bloqueia; <papel> ficou sem resposta 3 vezes
+🎯 Foco: <papel>, Pontoneiro provável — "<trecho>"
+⚠️ Atenção: <papel> — "<trecho>" (<explícito | nas entrelinhas> · <xenofobia | discriminação | falta de respeito>). Pode ser mais difícil: não é o foco para tirar acordos; evite pressioná-la.
+```
+
+Se você já leu outras transcrições deste grupo na conversa ou no Projeto, parta do que já sabe e mostre só o que mudou: quem ganhou ou perdeu voz, um novo foco, uma nova atenção.
 
 ---
 
@@ -375,9 +547,11 @@ Junte, numa mesma mensagem curta, o pedido de percepção (veja SKILL.md) e a co
 
 > Recebi a transcrição. Antes de elaborar, duas coisas rápidas:
 > 1. **Sua percepção** da reunião, em áudio ou por escrito: como você saiu dela e o que achou mais importante.
-> 2. **Como você quer a transcrição.** Se já tem um Perfil de transcrição, cole aqui. Se não, eu uso o padrão (**ata PONTE**, pessoas pelo papel, com marcações, sem marcas de tempo) ou você me diz o que mudar.
+> 2. **Se quiser um formato específico**, me diga ou cole o seu Perfil de transcrição. Se não, eu faço uma ata direta e objetiva.
 
 Se a pessoa disser "só quero a transcrição, sem análise", respeite: elabore no formato pedido e, no fim, ofereça a leitura PONTE em uma linha. Mesmo assim, pergunte a percepção, porque ela ajuda a destacar o que importa.
+
+**O resumo é do jeito que a pessoa pedir.** Se ela não disser, seja direto e objetivo: o padrão enxuto, sem análise geral, sem repetir o que já está no texto e sem incluir nada que não foi dito. As opções do Perfil vão numa linha no fim, não antes.
 
 Quando a configuração for nova, devolva no fim o bloco do Perfil preenchido e sugira que a pessoa o guarde (veja "Guardar o perfil").
 
@@ -390,7 +564,7 @@ Opções, com o padrão em **negrito**:
 | Formato | limpa · **ata PONTE** · resumo · completa | O tipo de registro (veja os modelos) |
 | Pessoas | **papéis** · iniciais · nomes | Privacidade. Nomes só com o consentimento de todos |
 | Marcações PONTE | **sim** · não | Destaca no texto desejo comum, acordos, lacunas, termos ambíguos e Correntes |
-| Detalhe | enxuto · **padrão** · detalhado | Tamanho do registro |
+| Detalhe | **enxuto** · padrão · detalhado | Tamanho do registro |
 | Marcas de tempo | manter · **remover** | Útil para voltar à gravação |
 | Idioma | **o da reunião** · outro | Tradução do registro |
 | Saída | **texto formatado** · texto simples para colar (e-mail, Teams, WhatsApp) · tabela | Onde o registro vai ser usado |
@@ -404,7 +578,7 @@ PERFIL DE TRANSCRIÇÃO PONTE
 formato: ata PONTE
 pessoas: papéis
 marcações PONTE: sim
-detalhe: padrão
+detalhe: enxuto
 marcas de tempo: remover
 idioma: o da reunião
 saída: texto formatado
@@ -460,7 +634,7 @@ Próximos passos
 
 #### Resumo
 
-De 5 a 10 linhas: o desejo comum, as decisões, os próximos passos e um alerta, se houver.
+Até 5 linhas, salvo pedido diferente: o desejo comum, as decisões, os próximos passos e um alerta, se houver.
 
 #### Completa
 
@@ -484,7 +658,7 @@ Reescreva o mesmo conteúdo (decisões, acordos, próximos passos) no canal e no
 ### 5. Regras de fidelidade
 
 - **Nunca invente.** Se um trecho estiver inaudível ou confuso, marque `[inaudível]` ou `[?]` e pergunte.
-- **Limpar não é reescrever.** Tire os vícios, mas preserve o que é sinal cultural: "acho que dá", "vou ver", "pode ser" e silêncios são pistas de Discordância e de Ritmo.
+- **Limpar não é reescrever.** Tire os vícios, mas preserve o que é sinal cultural: "acho que dá", "vou ver", "pode ser" e silêncios são pistas de Discordância e de Ritmo. Na versão limpa, mantenha marcados interrupções `[interrompe]`, falas sobrepostas e `[risos]`: são os sinais que mostram a dinâmica do grupo.
 - **Cite literalmente os momentos-chave**: o desejo comum, os acordos e os pontos de tensão.
 - **Separe fala de interpretação.** O que foi dito fica no texto; a sua leitura fica nas marcações e na análise.
 - **Privacidade por padrão.** Pessoas pelo papel. Lembre que a transcrição deve ter o consentimento dos participantes.

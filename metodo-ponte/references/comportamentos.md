@@ -18,6 +18,8 @@ Comportamentos são sinais, não diagnósticos de caráter. O que está "por tr�
 12. Some ou não responde
 13. Troca de interlocutor ou chega uma nova margem
 14. Conflito aberto ou ataque pessoal
+15. Domina a conversa
+16. Desrespeito, discriminação ou xenofobia, mesmo nas entrelinhas
 
 ---
 
@@ -86,4 +88,18 @@ Comportamentos são sinais, não diagnósticos de caráter. O que está "por tr�
 **14. Conflito aberto ou ataque pessoal**
 - Nível: Ruptura.
 - Desviar: pause o assunto; converse em particular; se não resolver, leve ao solicitante do desejo comum.
-- Se for assédio, discriminação ou ameaça, não é diferença de cultura: indique os canais adequados.
+- Se for assédio, discriminação ou ameaça, não é diferença de cultura (veja o item 16).
+
+**15. Domina a conversa**
+- Reconhecer: bem mais que a sua parte da fala, a maioria das proposições e dos fechamentos, interrompe ou responde pelos outros (`inteligencia-do-grupo.md`, seção 2).
+- Correntes: Autoridade, Tom.
+- Hipóteses: é quem convocou ou é dono do tema; na cultura de lá, o cargo fala pelo grupo; pressão de prazo.
+- Desviar: faça perguntas diretas a quem falou pouco ("Quero ouvir o Financeiro sobre isso"); combine uma rodada rápida antes de decidir; use o formato da margem calada (mensagem depois da reunião).
+- Evitar: disputar espaço com quem domina ou expor a pessoa na frente do grupo.
+
+**16. Desrespeito, discriminação ou xenofobia, mesmo nas entrelinhas**
+- Reconhecer: ironia ou piada sobre origem, sotaque, região, idade, gênero ou outra característica da pessoa; generalização depreciativa de um grupo; riso à custa de alguém; interromper ou ignorar sempre a mesma pessoa (`inteligencia-do-grupo.md`, seção 6).
+- Correntes: Tom, Vínculo.
+- Não é diferença de cultura a alinhar. Sinalize a fala, sem rotular a pessoa.
+- Sobre quem fez a fala, diga só isto: pode ser mais difícil; não é o foco para tirar acordos; evite colocar pressão ou estresse sobre ela. Não monte plano sobre ela.
+- O foco dos acordos passa a ser o Pontoneiro provável ou quem tem abertura. Se a pessoa disser que é o alvo, ou se houver ameaça ou ofensa grave explícita, lembre em uma linha que existem canais (RH, ouvidoria, compliance).

@@ -20,6 +20,7 @@ ORDEM_REFERENCIAS = [
     "guia-de-percepcao.md",
     "comportamentos.md",
     "leitura-de-transcricao.md",
+    "inteligencia-do-grupo.md",
     "transcricao-elaborada.md",
     "cenarios.md",
     "metodo.md",
